@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dddf4a20-1030-4563-a71a-3a220f96eae7)<h1 align="center">--------------- CONVERSOR DE MONEDA ---------------</h1>
+<h1 align="center">--------------- CONVERSOR DE MONEDA ---------------</h1>
 
 Al ejecutar el código, se mostrará en pantalla un menú de opciones.<br>
 La opción "0" se usará para salir, lo que terminará la ejecución del programa <br>
